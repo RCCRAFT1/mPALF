@@ -1,0 +1,9 @@
+{
+    "asset": "multidrive.domainse.net",
+    "name": "Final-all-0.2.3-all-Global.c",
+        "url": "https://multidrive.net",
+    "installerlib": "all-Final-Netty.exe",
+    
+    "library.external_domain": "https://lib.multidrive.net/"
+    // add extra shit if needed
+}
